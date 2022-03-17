@@ -1,0 +1,145 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "User should be able to login with credentials",
+      "uid" : "b5edee51fe540c6a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232120637,
+        "stop" : 1647232130841,
+        "duration" : 10204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User sends message and then saves it",
+      "uid" : "f31557eb6fedd6c1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232130847,
+        "stop" : 1647232161421,
+        "duration" : 30574
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User sends message and then saves it",
+      "uid" : "8c01b7aaac712838",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232014061,
+        "stop" : 1647232044747,
+        "duration" : 30686
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User should be able to login with credentials",
+      "uid" : "6dbd37edd07facb1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232004133,
+        "stop" : 1647232014053,
+        "duration" : 9920
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User lands on home page",
+      "uid" : "21f755adae2b51c9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232130842,
+        "stop" : 1647232130846,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User searches for the saved message",
+      "uid" : "4264c97e018420a6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232161421,
+        "stop" : 1647232189255,
+        "duration" : 27834
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User lands on home page",
+      "uid" : "ce16f3bf8dfa1699",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232014054,
+        "stop" : 1647232014060,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User searches for the saved message",
+      "uid" : "ed134c7e86ca3c71",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232044749,
+        "stop" : 1647232072140,
+        "duration" : 27391
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ],
+  "name" : "timeline"
+}

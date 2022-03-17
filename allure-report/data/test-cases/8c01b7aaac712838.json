@@ -1,0 +1,60 @@
+{
+  "uid" : "8c01b7aaac712838",
+  "name" : "User sends message and then saves it",
+  "fullName" : "Slack Saved Msg Task.User sends message and then saves it",
+  "historyId" : "3c765a025b22a442f54823c3535544c5",
+  "time" : {
+    "start" : 1647232014061,
+    "stop" : 1647232044747,
+    "duration" : 30686
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "testClass",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "testMethod",
+    "value" : "User sends message and then saves it"
+  }, {
+    "name" : "package",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c01b7aaac712838.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "4264c97e018420a6",
+  "name" : "User searches for the saved message",
+  "fullName" : "Slack Saved Msg Task.User searches for the saved message",
+  "historyId" : "fc03443cfa245733da313bfd7f52e7b",
+  "time" : {
+    "start" : 1647232161421,
+    "stop" : 1647232189255,
+    "duration" : 27834
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "testClass",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "testMethod",
+    "value" : "User searches for the saved message"
+  }, {
+    "name" : "package",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ed134c7e86ca3c71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232044749,
+        "stop" : 1647232072140,
+        "duration" : 27391
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4264c97e018420a6.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}

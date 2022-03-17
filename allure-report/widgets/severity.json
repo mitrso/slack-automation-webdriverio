@@ -1,0 +1,41 @@
+[ {
+  "uid" : "4264c97e018420a6",
+  "name" : "User searches for the saved message",
+  "time" : {
+    "start" : 1647232161421,
+    "stop" : 1647232189255,
+    "duration" : 27834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21f755adae2b51c9",
+  "name" : "User lands on home page",
+  "time" : {
+    "start" : 1647232130842,
+    "stop" : 1647232130846,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f31557eb6fedd6c1",
+  "name" : "User sends message and then saves it",
+  "time" : {
+    "start" : 1647232130847,
+    "stop" : 1647232161421,
+    "duration" : 30574
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b5edee51fe540c6a",
+  "name" : "User should be able to login with credentials",
+  "time" : {
+    "start" : 1647232120637,
+    "stop" : 1647232130841,
+    "duration" : 10204
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

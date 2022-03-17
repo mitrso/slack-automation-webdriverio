@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Slack Saved Msg Task",
+    "children" : [ {
+      "name" : "User should be able to login with credentials",
+      "uid" : "b5edee51fe540c6a",
+      "parentUid" : "78836184c68ed847ed6c245a71d49c6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232120637,
+        "stop" : 1647232130841,
+        "duration" : 10204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User lands on home page",
+      "uid" : "21f755adae2b51c9",
+      "parentUid" : "78836184c68ed847ed6c245a71d49c6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232130842,
+        "stop" : 1647232130846,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User sends message and then saves it",
+      "uid" : "f31557eb6fedd6c1",
+      "parentUid" : "78836184c68ed847ed6c245a71d49c6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232130847,
+        "stop" : 1647232161421,
+        "duration" : 30574
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    }, {
+      "name" : "User searches for the saved message",
+      "uid" : "4264c97e018420a6",
+      "parentUid" : "78836184c68ed847ed6c245a71d49c6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232161421,
+        "stop" : 1647232189255,
+        "duration" : 27834
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-99.0.4844.51" ]
+    } ],
+    "uid" : "78836184c68ed847ed6c245a71d49c6f"
+  } ],
+  "name" : "suites"
+}

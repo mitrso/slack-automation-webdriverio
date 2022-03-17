@@ -1,0 +1,70 @@
+{
+  "uid" : "b5edee51fe540c6a",
+  "name" : "User should be able to login with credentials",
+  "fullName" : "Slack Saved Msg Task.User should be able to login with credentials",
+  "historyId" : "3bcc5dbc388c6cc9707500543e1b6232",
+  "time" : {
+    "start" : 1647232120637,
+    "stop" : 1647232130841,
+    "duration" : 10204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "testClass",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "testMethod",
+    "value" : "User should be able to login with credentials"
+  }, {
+    "name" : "package",
+    "value" : "Slack Saved Msg Task"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-99.0.4844.51"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6dbd37edd07facb1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647232004133,
+        "stop" : 1647232014053,
+        "duration" : 9920
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5edee51fe540c6a.json",
+  "parameterValues" : [ "chrome-99.0.4844.51" ]
+}
